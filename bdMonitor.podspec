@@ -15,7 +15,7 @@ s.source           = { :git => 'https://github.com/ericzhangyong/BDMonitor.git',
 
 s.ios.deployment_target = '8.0'
 #自己的逻辑代码
-s.source_files  = "Classess/**/*.{h,m}"
+s.source_files  = "Classess/test.h"
 #依赖自己的或别人的Framework文件
 s.vendored_frameworks = 'SDKTest.framework'
 #系统依赖库
