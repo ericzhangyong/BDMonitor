@@ -11,7 +11,7 @@ DESC
 s.homepage         = 'http://106.14.36.118:8877/zhangyong/BdMonitor.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'zhangyong' => 'zhangyong2@beadwallet.com' }
-s.source           = { :git => 'http://106.14.36.118:8877/zhangyong/BdMonitor.git', :tag => s.version.to_s }
+s.source           = { :git => 'http://106.14.36.118:8877/zhangyong/BdMonitor.git', :tag => s.version }
 
 s.ios.deployment_target = '8.0'
 #自己的逻辑代码
