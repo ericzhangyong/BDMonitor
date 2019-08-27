@@ -8,10 +8,10 @@ s.summary          = '广告监测'
 s.description      = <<-DESC
 TODO: Add long description of the pod here，Add long description of the pod here.
 DESC
-s.homepage         = 'http://106.14.36.118:8877/zhangyong/BdMonitor.git'
+s.homepage         = 'https://github.com/ericzhangyong/BDMonitor.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'zhangyong' => 'zhangyong2@beadwallet.com' }
-s.source           = { :git => 'http://106.14.36.118:8877/zhangyong/BdMonitor.git', :tag => s.version }
+s.source           = { :git => 'https://github.com/ericzhangyong/BDMonitor.git', :tag => s.version }
 
 s.ios.deployment_target = '8.0'
 #自己的逻辑代码
