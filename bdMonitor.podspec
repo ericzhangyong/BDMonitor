@@ -15,7 +15,7 @@ s.source           = { :git => 'https://github.com/ericzhangyong/BDMonitor.git',
 
 s.ios.deployment_target = '9.0'
 #自己的逻辑代码
-s.source_files  = "BDMonitorSDK/BDMonitorSDK/**/*.{h,m}"
+s.source_files  = "BDMonitorSDK/BDMonitorSDK/*.{h,m}'"
 #依赖自己的或别人的Framework文件
 s.vendored_frameworks = 'BDMonitorSDK/Products/BDMonitorSDK.framework'
 #系统依赖库
