@@ -1,0 +1,6 @@
+framework module BDMonitorSDK {
+  umbrella header "BDMonitorSDK.h"
+
+  export *
+  module * { export * }
+}
